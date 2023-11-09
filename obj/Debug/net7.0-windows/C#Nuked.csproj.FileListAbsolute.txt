@@ -1,0 +1,5 @@
+D:\C#Nuked\obj\Debug\net7.0-windows\C#Nuked.csproj.AssemblyReference.cache
+D:\C#Nuked\obj\Debug\net7.0-windows\C#Nuked.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Nuked\obj\Debug\net7.0-windows\C#Nuked.AssemblyInfoInputs.cache
+D:\C#Nuked\obj\Debug\net7.0-windows\C#Nuked.AssemblyInfo.cs
+D:\C#Nuked\obj\Debug\net7.0-windows\C#Nuked.csproj.CoreCompileInputs.cache
