@@ -19,7 +19,7 @@ class Penis
     int screenWidth = 1920; // Replace with the width of the region
     int screenHeight = 1080; // Replace with the height of the region
 
-    Color targetColor = Color.Red; // The color you're looking for
+    Color targetColor = Color.Green; // The color you're looking for
 
     while (true) // Run indefinitely, or you can define your own condition to exit the loop
     {
