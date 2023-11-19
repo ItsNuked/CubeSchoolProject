@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Nuked\\Cube\\IdleonCubeAC\\C#Nuked.csproj": {}
+    "D:\\C#Nuked\\Cube\\IdleonCubeAC\\IdleonCubeAC\\C#Nuked.csproj": {}
   },
   "projects": {
-    "D:\\C#Nuked\\Cube\\IdleonCubeAC\\C#Nuked.csproj": {
+    "D:\\C#Nuked\\Cube\\IdleonCubeAC\\IdleonCubeAC\\C#Nuked.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Nuked\\Cube\\IdleonCubeAC\\C#Nuked.csproj",
+        "projectUniqueName": "D:\\C#Nuked\\Cube\\IdleonCubeAC\\IdleonCubeAC\\C#Nuked.csproj",
         "projectName": "C#Nuked",
-        "projectPath": "D:\\C#Nuked\\Cube\\IdleonCubeAC\\C#Nuked.csproj",
+        "projectPath": "D:\\C#Nuked\\Cube\\IdleonCubeAC\\IdleonCubeAC\\C#Nuked.csproj",
         "packagesPath": "C:\\Users\\Uporabnik\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Nuked\\Cube\\IdleonCubeAC\\obj\\",
+        "outputPath": "D:\\C#Nuked\\Cube\\IdleonCubeAC\\IdleonCubeAC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.5.1.4349, )"
+            },
             "InputSimulator": {
               "target": "Package",
               "version": "[1.0.4, )"
