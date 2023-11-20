@@ -9,7 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Emgu.CV" Version="4.5.1.4349" />
+    <PackageReference Include="Emgu.CV" Version="4.8.1.5350" />
+    <PackageReference Include="Emgu.CV.runtime.windows" Version="4.8.1.5350" />
     <PackageReference Include="InputSimulator" Version="1.0.4" />
     <PackageReference Include="system.drawing.common" Version="7.0.0" />
     <PackageReference Include="System.Runtime.InteropServices" Version="4.3.0" />

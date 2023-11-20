@@ -46,7 +46,11 @@
           "dependencies": {
             "Emgu.CV": {
               "target": "Package",
-              "version": "[4.5.1.4349, )"
+              "version": "[4.8.1.5350, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
             },
             "InputSimulator": {
               "target": "Package",
