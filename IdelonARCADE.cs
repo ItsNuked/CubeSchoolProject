@@ -1,3 +1,4 @@
+
 using System;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
@@ -16,7 +17,7 @@ namespace Image
             Mat img = new Mat();        //Naredi nov material, aka save-a info of all colors of all pixels
 
             img = CvInvoke.Imread("./img/sest.jpg");       //Reads specified image (stores in object)
-            CvInvoke.Imshow("slicica", img);                   //Saves image ()
+            CvInvoke.Imshow("img", img);                   //Saves image ()
             
             CvInvoke.WaitKey();
         }
